@@ -1,0 +1,45 @@
+Swagger Link
+https://api-gw.dev.platform.linuxfoundation.org/ 
+
+RBAC Sheet
+https://docs.google.com/spreadsheets/d/1e38-rJx2RTg-9JY9GLm681mfxr-tl9xqBtAvt7JGyZA/edit#gid=0
+
+For creating new user please use-
+https://myprofile.dev.platform.linuxfoundation.org/ 
+
+prashantd1dev / id = 00317000014SDnmAAG
+DRftgyhu@12
+
+Projects endpoints
+Admin IAM
+https://myaccount.dev.platform.linuxfoundation.org/iam/home
+
+yogesh.chaudhari
+DRftgyhu@12
+
+
+Staging 
+https://linuxfoundation--partial.lightning.force.com/lightning/r/Account/0014100000Te0yqAAB/view
+
+rajashreeb@proximabiz.com.partial	
+RB$rb1983
+
+thats for the production SFDC
+admin@proximabiz.com	Linuxfoundation!11
+
+
+Staging URL
+https://myaccount.staging.platform.linuxfoundation.org/
+
+prashantd1staging /id 00Q1700000Bv8F4EAJ
+DRftgyhu@12
+
+lfxstaginguser1
+DRftgyhu@12
+
+https://confluence.linuxfoundation.org/display/PROD/Zoom%3A+Webinar+and+Meeting+Registration
+https://github.com/LF-Engineering/platform-events-triggers/tree/master/zoom
+
+Zoom session recording
+https://drive.google.com/drive/folders/1TlND8Y3VffwO_UOCpcUU5ZQVbC4QEYix?usp=sharing
+
