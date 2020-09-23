@@ -1,0 +1,94 @@
+
+Sept 14
+User Service endpoints verification for refresh environment
+
+ Sept 15
+ IAM-1036 [user-service]: get emails function query optimization 
+   Working fine, taking time 500-600 ms
+IAM-966 User Service: Filter option
+  Working Fine
+
+IAM-1046
+
+pdifu15091
+
+If Admin tries to update Subscriptions, then wrong message displayed as response
+ 
+"Name": "LF Public Health",
+"SubscriptionID": "7012M000001v03pQAA"
+Subscription Added but status displayed as "Sent"
+Not geting in Subcsribed array
+
+
+Sept 16
+
+IAM 1046
+Contact type user also can Subscrib any campaign,
+Contact User can Subscribe any other contact user.
+
+
+IAM-1035 Taking almost same time on dev and staging
+IAM-1048 
+
+IAM-1070- Verified and closed,
+bulk search 
+By email :- taking 1304 ms
+
+Sept 17
+
+IAM-1036 - verified and closed
+
+IAM-1070- Verified and closed,
+IAM-1036 - verified and closed
+
+IAM-966 verified on prod, working fine but taking 10-12 sec 
+
+Sept 18
+IAM-1048 - ACS- Add validation for delete and update user role assignment
+verified and closed.
+CLA Signatory (30) cannot delete, update Company Owner (50)
+cla-manager cannot modify Community Program manager(60) 
+community manager(60) can update and delete Company Owner(50)
+Company Owner(50) cannot delete community manager(60)
+Lf-Legal can delete update Company Owner
+
+1034 - [IAM] ACS scope changes
+Verified on staging for project services with below roles
+Lf-legal, LF-Executive 	LF-Finance & LF-Legal
+
+IAM-1040 - ACS: Data migration Script
+verified and closed.
+
+Sept 21
+
+IAM- 1019 MyProfile: Display Training Data
+
+List enrollment - Pass
+Add enrollment- Pass,
+List my enrollment - Pass
+Update Enrollment - Pass
+Get Enrollment By ID - Pass
+Update Enrollment - Pass
+Delete Enrollment - Pass
+Verified for below status
+Enrolment dispalyed if status is Enrolled or Started or Completed or Not started - Pass
+Not displayed for status Revoked and Expired - Pass
+
+IAM-902 My Profile: Affiliation
+
+IAM-908 Fix swagger doc: missing service url name in the path
+Verified and closed.
+
+IAM-1029- [API-GW]: X-EMAIL header rewrite
+Moved back to ToDo, 
+
+
+Sept 22:-(half Day)
+
+IAM-1045
+Not working from UI.
+User can see Subscription list
+
+
+IAM-855  
+Not able to add user to community. 
